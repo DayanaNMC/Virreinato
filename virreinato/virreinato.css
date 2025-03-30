@@ -1,0 +1,47 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: cyan;
+}
+header{
+    background-color: red;
+    color: aliceblue;
+    border: 10px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: xx-large;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: x-large;
+    background-color: tomato;
+    color: cornsilk;
+}
+nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: black;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    background-color: aliceblue;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
